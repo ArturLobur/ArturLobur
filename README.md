@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, I'm Artur 👋
 I am an experienced developer with over 5 years of expertise in front-end development.
 If you are seeking a talented frontend developer with a proven track record in ReactJS, Next.js, JavaScript, TypeScript, Tailwind. I am ready to take on your projects with enthusiasm and dedication.
 
