@@ -1,4 +1,5 @@
-### Hi, I'm Artur Lobur a Senior Software Engineer 👋
+### Hi 👋
+I'm Artur Lobur a Senior Software Engineer 
 
 :mailbox: Reach me out!
 
