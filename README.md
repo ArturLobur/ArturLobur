@@ -21,9 +21,7 @@ I'm Artur Lobur a Senior Software Engineer
 
 ### My stats ⭐
 
-<div align="center">
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLobur&layout=compact&&langs_count=8"/>
-</div>
 
 <br/>
 
