@@ -18,7 +18,6 @@ I'm Artur Lobur a Senior Software Engineer
 [![Mail Badge](https://img.shields.io/badge/-Artur_Lobur-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:loburav@gmail.com)
 
 <br/>
-<br/>
 
 ### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Lzk8ZtawbYtKR87VTlUlyniyWKb_ARkR/view?usp=sharing)
