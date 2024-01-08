@@ -19,6 +19,15 @@ I'm Artur Lobur a Senior Software Engineer
 
 <br/>
 
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArturLobur&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLobur&layout=compact&&langs_count=8"/>
+</div>
+
+<br/>
+
 ### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Lzk8ZtawbYtKR87VTlUlyniyWKb_ARkR/view?usp=sharing)
 - :email: loburav@gmail.com
