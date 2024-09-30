@@ -27,5 +27,5 @@ If you are seeking a talented frontend developer with a proven track record in R
 <br/>
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1ENrNcVhC8cEDKJ5b6LREBlLE2HWzKWC4/view?usp=drive_link)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1czoGKaND1ik2rRknX-B5k9gbyz8jPO2s/view?usp=sharing)
 - :email: loburav@gmail.com
